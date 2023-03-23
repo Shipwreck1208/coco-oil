@@ -29,7 +29,7 @@ const UserList = () => {
         <Link to="add" className="bg-green-400 p-2 rounded-lg ">
           Place Your Order
         </Link>
-        <Link to="moeadmin16" className="">
+        <Link to="moeadmin16" className="bg-green-400 p-2 rounded-lg ">
           Admin
         </Link>
         {/* <table className="table is-striped is-fullwidth mt-2">
