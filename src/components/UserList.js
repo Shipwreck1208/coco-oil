@@ -30,6 +30,7 @@ const UserList = () => {
           Place Your Order
         </Link>
         <Link to="moeadmin16" className="">
+          Admin
         </Link>
         {/* <table className="table is-striped is-fullwidth mt-2">
           <thead>
