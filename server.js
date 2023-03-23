@@ -2,7 +2,6 @@ import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
 import UserRoute from "./routes/UserRoute.js";
-require('dotenv').config();
  
 const app = express();
 mongoose.connect('mongodb+srv://Moesha:CocoOils16@cocooils.2w36bdp.mongodb.net/?retryWrites=true&w=majority',{
